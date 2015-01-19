@@ -1,0 +1,11 @@
+Name: Trie
+Version: 0.0
+Description: Trie Map Library
+License: GPL
+Author: Bruce Richardson
+Maintainer: it.is.bruce@gmail.com
+Build-Type: Simple
+Cabal-Version: >= 1.2
+Exposed-Modules: Trie
+Executable Trie
+  Main-is: Trie.hs
